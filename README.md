@@ -1,0 +1,65 @@
+# Codewars
+
+### This repository contains all my completed katas on [Codewars](https://www.codewars.com/kata/search/python?q=&beta=false&order_by=popularity%20desc).
+# [![](https://www.codewars.com/users/despxx/badges/large)](https://www.codewars.com/users/despxx)
+
+### Navigation
+[8 KYU](https://github.com/despxx/Codewars/tree/main/8kyu) ‎ ›› ‎ [7 KYU](https://github.com/despxx/Codewars/tree/main/7kyu)
+
+##
+
+### 8 KYU
+- [Even or Odd](https://github.com/despxx/Python.Codewars/blob/main/8kyu/even_or_odds.py) - [Codewars](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/python)
+- [Multiply](https://github.com/despxx/Python.Codewars/blob/main/8kyu/multiply.py) - [Codewars](https://www.codewars.com/kata/50654ddff44f800200000004/train/python)
+- [Return Negative](https://github.com/despxx/Python.Codewars/blob/main/8kyu/return_negative.py) - [Codewars](https://www.codewars.com/kata/55685cd7ad70877c23000102/train/python)
+- [Sum of positive](https://github.com/despxx/Python.Codewars/blob/main/8kyu/sum_of_positive.py) - [Codewars](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/python)
+- [Reversed Strings](https://github.com/despxx/Python.Codewars/blob/main/8kyu/reversed_string.py) - [Codewars](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/python)
+- [Convert boolean values to strings 'Yes' or 'No'](https://github.com/despxx/Python.Codewars/blob/main/8kyu/convert_boolean_value.py) - [Codewars](https://www.codewars.com/kata/53369039d7ab3ac506000467/train/python)
+- [Convert a Number to a String!](https://github.com/despxx/Python.Codewars/blob/main/8kyu/convert_number_to_string.py) - [Codewars](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/train/python)
+- [Opposite number](https://github.com/despxx/Python.Codewars/blob/main/8kyu/opposite_number.py) - [Codewars](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/python)
+- [Remove First and Last Character](https://github.com/despxx/Python.Codewars/blob/main/8kyu/remove_first_and_last_char.py) - [Codewars](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/python)
+- [Square(n) Sum](https://github.com/despxx/Python.Codewars/blob/main/8kyu/square_n_Sum.py) - [Codewars](https://www.codewars.com/kata/515e271a311df0350d00000f/train/python)
+- [String repeat](https://github.com/despxx/Python.Codewars/blob/main/8kyu/string_repeat.py) - [Codewars](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/python)
+- [Grasshopper - Summation](https://github.com/despxx/Python.Codewars/blob/main/8kyu/grasshopper_summation.py) - [Codewars](https://www.codewars.com/kata/55d24f55d7dd296eb9000030/train/python)
+- [Find the smallest integer in the array](https://github.com/despxx/Python.Codewars/blob/main/8kyu/find_small_int_in_array.py) - [Codewars](https://www.codewars.com/kata/55a2d7ebe362935a210000b2/train/python)
+- [Remove String Spaces](https://github.com/despxx/Python.Codewars/blob/main/8kyu/remove_string_spaces.py) - [Codewars](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/python)
+- [Counting sheep...](https://github.com/despxx/Python.Codewars/blob/main/8kyu/counting_sheep.py) - [Codewars](https://www.codewars.com/kata/54edbc7200b811e956000556/train/python)
+- [Basic Mathematical Operations](https://github.com/despxx/Python.Codewars/blob/main/8kyu/basic_math_operations.py) - [Codewars](https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/python)
+- [Convert a String to a Number!](https://github.com/despxx/Python.Codewars/blob/main/8kyu/convert_string_to_number.py) - [Codewars](https://www.codewars.com/kata/544675c6f971f7399a000e79/train/python)
+- [Abbreviate a Two Word Name](https://github.com/despxx/Python.Codewars/blob/main/8kyu/abbreviate_two_word_name.py) - [Codewars](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/python)
+- [Century From Year](https://github.com/despxx/Python.Codewars/blob/main/8kyu/century_from_year.py) - [Codewars](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/train/python)
+- [Keep Hydrated!](https://github.com/despxx/Python.Codewars/blob/main/8kyu/keep_hydrated.py) - [Codewars](https://www.codewars.com/kata/582cb0224e56e068d800003c/train/python)
+- [Convert number to reversed array of digits](https://github.com/despxx/Python.Codewars/blob/main/8kyu/convert_number_to_reversed_array.py) - [Codewars](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/python)
+- [Returning Strings](https://github.com/despxx/Python.Codewars/blob/main/8kyu/returning_string.py) - [Codewars](https://www.codewars.com/kata/55a70521798b14d4750000a4/train/python)
+- [Function 1 - hello world](https://github.com/despxx/Python.Codewars/blob/main/8kyu/function_hello_world.py) - [Codewars](https://www.codewars.com/kata/523b4ff7adca849afe000035/train/python)
+- [Is n divisible by x and y?](https://github.com/despxx/Python.Codewars/blob/main/8kyu/is_n_divisible.py) - [Codewars](https://www.codewars.com/kata/5545f109004975ea66000086/train/python)
+- [Opposites Attract](https://github.com/despxx/Python.Codewars/blob/main/8kyu/opposites_attract.py) - [Codewars](https://www.codewars.com/kata/555086d53eac039a2a000083/train/python)
+- [A Needle in the Haystack](https://github.com/despxx/Python.Codewars/blob/main/8kyu/a_needle_in_haystack.py) - [Codewars](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/train/python)
+- [Beginner - Lost Without a Map](https://github.com/despxx/Python.Codewars/blob/main/8kyu/lost_without_map.py) - [Codewars](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/train/python)
+- [Beginner Series #1 School Paperwork](https://github.com/despxx/Python.Codewars/blob/main/8kyu/school%20papework.py) - [Codewars](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/train/python)
+- [Convert a Boolean to a String](https://github.com/despxx/Python.Codewars/blob/main/8kyu/convert_bool_to_string.py) - [Codewars](https://www.codewars.com/kata/551b4501ac0447318f0009cd/train/python)
+- [Are You Playing Banjo?](https://github.com/despxx/Python.Codewars/blob/main/8kyu/are_you_playing_banjo.py) - [Codewars](https://www.codewars.com/kata/53af2b8861023f1d88000832/train/python)
+- [Sum Arrays](https://github.com/despxx/Python.Codewars/blob/main/8kyu/sum_arrays.py) - [Codewars](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/python)
+- [Beginner Series #2 Clock](https://github.com/despxx/Python.Codewars/blob/main/8kyu/clock.py) - [Codewars](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/train/python)
+- [How good are you really?](https://github.com/despxx/Python.Codewars/blob/main/8kyu/how_good_are_you_really.py) - [Codewars](https://www.codewars.com/kata/5601409514fc93442500010b/train/python)
+- [Calculate average](https://github.com/despxx/Python.Codewars/blob/main/8kyu/calculate_average.py) - [Codewars](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/train/python)
+- [Invert values](https://github.com/despxx/Python.Codewars/blob/main/8kyu/invert_values.py) - [Codewars](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/python)
+- [Simple multiplication](https://github.com/despxx/Python.Codewars/blob/main/8kyu/simple_multiplication.py) - [Codewars](https://www.codewars.com/kata/583710ccaa6717322c000105/train/python)
+- [Count of positives / sum of negatives](https://github.com/despxx/Python.Codewars/blob/main/8kyu/count_positives_sum_negatives.py) - [Codewars](https://www.codewars.com/kata/576bb71bbbcf0951d5000044/train/python)
+- [Fake Binary](https://github.com/despxx/Python.Codewars/blob/main/8kyu/fake_binary.py) - [Codewars](https://www.codewars.com/kata/57eae65a4321032ce000002d/train/python)
+- [You only need one - Beginner](https://github.com/despxx/Python.Codewars/blob/main/8kyu/you_only_need_one.py) - [Codewars](https://www.codewars.com/kata/57cc975ed542d3148f00015b/train/python)
+- [Calculate BMI](https://github.com/despxx/Python.Codewars/blob/main/8kyu/calculate_bmi.py) - [Codewars](https://www.codewars.com/kata/57a429e253ba3381850000fb/train/python)
+- [Beginner - Reduce but Grow](https://github.com/despxx/Python.Codewars/blob/main/8kyu/reduce_but_grow.py) - [Codewars](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/python)
+- [MakeUpperCase](https://github.com/despxx/Python.Codewars/blob/main/8kyu/make_upper_case.py) - [Codewars](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/train/python)
+- [Sentence Smash](https://github.com/despxx/Python.Codewars/blob/main/8kyu/sentence_smash.py) - [Codewars](https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/python)
+- [Reversed sequence](https://github.com/despxx/Python.Codewars/blob/main/8kyu/reversed_sequence.py) - [Codewars](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/python)
+- [Is he gonna survive?](https://github.com/despxx/Python.Codewars/blob/main/8kyu/is_he_gonna_survive.py) - [Codewars](https://www.codewars.com/kata/59ca8246d751df55cc00014c/train/python)
+- [Count by X](https://github.com/despxx/Python.Codewars/blob/main/8kyu/count_by_x.py) - [Codewars](https://www.codewars.com/kata/5513795bd3fafb56c200049e/train/python)
+- [Will you make it?](https://github.com/despxx/Python.Codewars/blob/main/8kyu/will_you_make_it.py) - [Codewars](https://www.codewars.com/kata/5861d28f124b35723e00005e/train/python)
+- [DNA to RNA Conversion](https://github.com/despxx/Python.Codewars/blob/main/8kyu/dna_to_rna_conversion.py) - [Codewars](https://www.codewars.com/kata/5556282156230d0e5e000089/train/python)
+- [You Can't Code Under Pressure #1](https://github.com/despxx/Python.Codewars/blob/main/8kyu/double_integer.py) - [Codewars](https://www.codewars.com/kata/53ee5429ba190077850011d4/train/python)
+- [If you can't sleep, just count sheep!!](https://github.com/despxx/Python.Codewars/blob/main/8kyu/count_sheep_2.py) - [Codewars](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/train/python)
+- [Rock Paper Scissors!](https://github.com/despxx/Python.Codewars/blob/main/8kyu/rock_paper_scissors.py) - [Codewars](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/python)
+
+
+### 7 KYU
