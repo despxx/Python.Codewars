@@ -63,3 +63,16 @@
 
 
 ### 7 KYU
+- [Vowel Count](https://github.com/despxx/Python.Codewars/blob/main/7kyu/vowel_count.py) - [Codewars](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/python)
+- [Disemvowel Trolls](https://github.com/despxx/Python.Codewars/blob/main/7kyu/disemvowel_trolls.py) - [Codewars](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/python)
+- [Square Every Digit](https://github.com/despxx/Python.Codewars/blob/main/7kyu/square_every_digit.py) - [Codewars](https://www.codewars.com/kata/546e2562b03326a88e000020/train/python)
+- [Highest and Lowest](https://github.com/despxx/Python.Codewars/blob/main/7kyu/highest_and_lowest.py) - [Codewars](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/python)
+- [Descending Order](https://github.com/despxx/Python.Codewars/blob/main/7kyu/descending_order.py) - [Codewars](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/python)
+- [List Filtering](https://github.com/despxx/Python.Codewars/blob/main/7kyu/list_filtering.py) - [Codewars](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/python)
+- [Get the Middle Character](https://github.com/despxx/Python.Codewars/blob/main/7kyu/get_middle_character.py) - [Codewars](https://www.codewars.com/kata/56747fd5cb988479af000028/train/python)
+- [Mumbling](https://github.com/despxx/Python.Codewars/blob/main/7kyu/mumbling.py) - [Codewars](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/python)
+- [You're a square!](https://github.com/despxx/Python.Codewars/blob/main/7kyu/you_square.py) - [Codewars](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/python)
+- [Isograms](https://github.com/despxx/Python.Codewars/blob/main/7kyu/isograms.py) - [Codewars](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/python)
+- [Exes and Ohs](https://github.com/despxx/Python.Codewars/blob/main/7kyu/exes_and_ohs.py) - [Codewars](https://www.codewars.com/kata/55908aad6620c066bc00002a/train/python)
+- [Jaden Casing Strings](https://github.com/despxx/Python.Codewars/blob/main/7kyu/jaden_casing_strings.py) - [Codewars](https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/python)
+- [Shortest Word](https://github.com/despxx/Python.Codewars/blob/main/7kyu/shortest_word.py) - [Codewars](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/python)
