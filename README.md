@@ -7,4 +7,4 @@
 ›› ‎[8 KYU](https://github.com/despxx/Python.Codewars/blob/main/8kyu_Codewars.py)
 ›› ‎[7 KYU](https://github.com/despxx/Python.Codewars/blob/main/7kyu_Codewars.py)
 
-![panda2](https://github.com/despxx/Python.Codewars/assets/143245283/f35fb143-1b47-465d-8101-b436dffa414b)
+![panda2](https://github.com/despxx/Python.Codewars/assets/143245283/79773d3d-0417-4557-9b64-bbd3afda12e5)
