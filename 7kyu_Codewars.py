@@ -408,3 +408,30 @@ def is_square(n):
         return True
     else:
         return False
+
+#---------------------------------------------------
+
+# Testing 1-2-3
+
+def number(lines):
+    count = 1
+    output = []
+    for i in lines:
+        output.append(str(count) + ": " + i)
+        count += 1
+    
+    return output
+
+#---------------------------------------------------
+
+# The highest profit wins!
+
+def min_max(lst):
+    return [min(lst), max(lst)]
+
+#---------------------------------------------------
+
+# Don't give me five!
+
+def dont_give_me_five(start,end):
+   return len([n for n in range(start, end + 1) if "5" not in str(n)])
